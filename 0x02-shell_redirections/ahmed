@@ -1,0 +1,48 @@
+total 136
+drwxrwxr-x 2 ahmed ahmed 4096 مار 14 00:23 .
+drwxrwxr-x 6 ahmed ahmed 4096 مار 13 17:11 ..
+-rwxrwxr-x 1 ahmed ahmed   32 مار 13 17:21 0-hello_world
+-rwxrwxr-x 1 ahmed ahmed   48 مار 13 21:07 10-no_more_js
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 11-directories
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .11-directories.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 12-newest_files
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .12-newest_files.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 13-unique
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .13-unique.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 14-findthatword
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .14-findthatword.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 15-countthatword
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .15-countthatword.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 16-whatsnext
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .16-whatsnext.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 17-hidethisword
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .17-hidethisword.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 18-letteronly
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .18-letteronly.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 19-AZ
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .19-AZ.swp
+-rwxrwxr-x 1 ahmed ahmed   28 مار 13 18:27 1-confused_smiley
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 20-hiago
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .20-hiago.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 21-reverse
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .21-reverse.swp
+-rwxrwxr-x 1 ahmed ahmed    0 مار 13 17:17 22-users_and_homes
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 17:20 .22-users_and_homes.swp
+-rwxrwxr-x 1 ahmed ahmed   28 مار 13 17:25 2-hellofile
+-rwxrwxr-x 1 ahmed ahmed   39 مار 13 17:27 3-twofiles
+-rwxrwxr-x 1 ahmed ahmed   29 مار 13 17:31 4-lastlines
+-rwxrwxr-x 1 ahmed ahmed   29 مار 13 17:31 5-firstlines
+-rwxrwxr-x 1 ahmed ahmed   40 مار 13 18:15 6-third_line
+-rwxrwxr-x 1 ahmed ahmed  100 مار 14 00:19 7-file
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 14 00:13 .7-file.swp
+-rwxrwxr-x 1 ahmed ahmed   44 مار 13 19:17 8-cwd_state
+-rwxrwxr-x 1 ahmed ahmed   39 مار 13 20:07 9-duplicate_last_line
+-rw-rw-r-- 1 ahmed ahmed 1024 مار 13 18:40 .aa.swp
+-rw-rw-r-- 1 ahmed ahmed    0 مار 14 00:23 ahmed
+-rw-rw-r-- 1 ahmed ahmed   12 مار 14 00:09 \*\"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ahmed ahmed   12 مار 14 00:08 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ahmed ahmed   12 مار 14 00:11 \*\\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ahmed ahmed   12 مار 14 00:05 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ahmed ahmed   12 مار 14 00:11 \*\\'"Best School"\\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ahmed ahmed   12 مار 14 00:20 \*\\'"Best School"\\'\\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ahmed ahmed   30 مار 13 20:08 iacta
